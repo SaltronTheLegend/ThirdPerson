@@ -2,6 +2,7 @@
 
 
 #include "MyCharacter.h"
+#include <Kismet/GameplayStatics.h>
 
 // Sets default values
 AMyCharacter::AMyCharacter()
@@ -15,6 +16,8 @@ AMyCharacter::AMyCharacter()
 void AMyCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+
+	
 	
 }
 
@@ -58,5 +61,4 @@ void AMyCharacter::LookRightRate(float AxisValue)
 {
 	AddControllerYawInput(AxisValue * RotationRate * GetWorld()->DeltaTimeSeconds);
 }
-
 
