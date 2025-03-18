@@ -5,8 +5,9 @@ The NPC wanders in the room randomly until the player enters the room. the NPC t
 
 ![Untitledvideo-MadewithClipchamp1-ezgif com-optimize](https://github.com/user-attachments/assets/4d892cdd-dad8-419a-b05f-4e3fb95b3592)
 
-![image](https://github.com/user-attachments/assets/cc27814c-1d73-4116-b760-41dbdd471658)
+![image](https://github.com/user-attachments/assets/b83b4cbc-8cee-45f3-a099-ee57b43d3230)
 
-![image](https://github.com/user-attachments/assets/a428309c-7b78-4b69-8b8c-e73f3a30085d)
+![image](https://github.com/user-attachments/assets/25e9513a-501a-4363-a13e-777299c9cb35)
 
-![image](https://github.com/user-attachments/assets/f9f5d128-4f03-400a-b9be-2bd700fa263e)
+![image](https://github.com/user-attachments/assets/5d4bd79c-840f-4bb2-a0ae-24bca752f7db)
+
